@@ -15,9 +15,13 @@ Este es mi portafolio personal creado con HTML, CSS y JavaScript, donde presento
 
 Secciones:
      -Sobre mí: Una breve descripción personal.
+     
      -Habilidades: Lista de tecnologías y herramientas.
+     
      -Formación: Información académica y cursos realizados.
+     
      -Proyectos: Ejemplos de trabajos realizados.
+     
      -Contacto: Enlaces a redes sociales y correo.
 
 Diseño responsive, adaptable a diferentes tamaños de pantalla.
