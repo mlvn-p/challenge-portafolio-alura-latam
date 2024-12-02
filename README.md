@@ -1,24 +1,42 @@
 # Challenge ONE | Front End -  Portafolio
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169097543-d5ada41e-7db8-481d-9d89-cef4efdf7e05.png">
-</p>
+Portafolio Personal 🖥️
+
+Este es mi portafolio personal creado con HTML, CSS y JavaScript, donde presento información sobre mí, mis habilidades, formación, proyectos y formas de contacto.
+🔗 [Vista previa del proyecto](https://mlvn-p.github.io/challenge-portafolio-alura-latam/)
 
 
-### ¡Bienvenido al proyecto base del Portafolio ! Pasos principales:
+🎨 ![imagen](https://github.com/user-attachments/assets/2b324fc5-1e3f-4031-9440-11403f4b4046)
+
+
+🚀 Características
+
 ---
-#### Marca este proyecto con una estrella ⭐
-#### Sigue las lecciones y las instrucciones de contenido 📚
 
-### Analisando el repositorio!
+Secciones:
+     -Sobre mí: Una breve descripción personal.
+     -Habilidades: Lista de tecnologías y herramientas.
+     -Formación: Información académica y cursos realizados.
+     -Proyectos: Ejemplos de trabajos realizados.
+     -Contacto: Enlaces a redes sociales y correo.
+
+Diseño responsive, adaptable a diferentes tamaños de pantalla.
+Implementación de buenas prácticas de semántica y accesibilidad.
+
 ---
-### Este repositorio base es una sugerencia inicial, en caso de que aún no tengas un diseño que refleje tu estilo y personalidad. Siéntete libre de modificar tu portafolio como desees, aquí encontrarás:
-#### 🔹index.html: Documento HTML concluído que puedes utilizar en tu proyecto. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento y todas las secciones contienen comentários que te ayudan a entender la estructura. Si quieres, puedes aventurarte y contruir tu propio HTML.
-#### 🔹style.css: Documento de CSS con instrucciones de estilo y algunas sugerencias de desarrollo.
-#### 🔹script.js: Documento vacío dónde puedes desarrollar tu lógica para validar el formulário, ESTA VALIDACIÓN ES CONSIDERADA UN DESAFÍO EXTRA POR LO QUE NO ES OBLIGATÓRIA SU IMPLEMENTACIÓN.
 
-#### Cuando clones o descargues el proyecto base, tendrás la siguiente presentación:
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169064699-f268715c-822c-4335-b066-97a1bc1ea8e1.png">
-</p>
+🔧 Tecnologías utilizadas
 
+-HTML5 para la estructura del contenido.
+-CSS3 para el diseño y estilo visual.
+-JavaScript (opcional) para agregar interactividad.
+
+---
+🚧 Próximas mejoras
+
+-Implementar un modo oscuro.
+-Agregar animaciones con JavaScript.
+-Publicar el portafolio en GitHub Pages.
+
+
+    
